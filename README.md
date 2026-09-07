@@ -138,14 +138,12 @@ If you use this dataset in academic work, please cite:
 
 ```bibtex
 @misc{gonzalez2026corpusentropy,
-  title        = {Corpus Entropy Benchmark: A Controlled Dataset for Evaluating
-                  Groundedness in Retrieval-Augmented Generation},
-  author       = {Gonz{\'a}lez S{\'a}nchez, Ram{\'o}n and Mentomy AI},
+  title        = {A Hierarchical Consistency Framework for Auditing Retrieval-Augmented Generation Systems},
+  author       = {Gonz{\'a}lez, Ram{\'o}n and Mentomy AI},
   year         = {2026},
-  howpublished = {\url{https://github.com/mentomy-ai/corpus-entropy-dataset}},
-  note         = {Companion dataset to \emph{When Bigger is Not Better:
-                  Corpus Entropy and Groundedness in Retrieval-Augmented Generation},
-                  submitted to Information Fusion}
+  howpublished = {\url{https://github.com/ramongrobot/mentomy}},
+  note         = {Companion dataset to \emph{A Hierarchical Consistency Framework for Auditing Retrieval-Augmented Generation Systems},
+                  submitted to Arxiv}
 }
 ```
 
