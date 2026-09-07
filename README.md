@@ -139,7 +139,7 @@ If you use this dataset in academic work, please cite:
 ```bibtex
 @misc{gonzalez2026corpusentropy,
   title        = {A Hierarchical Consistency Framework for Auditing Retrieval-Augmented Generation Systems},
-  author       = {Gonz{\'a}lez, Ram{\'o}n and Mentomy AI},
+  author       = {Ramon Gonzalez, Mentomy AI},
   year         = {2026},
   howpublished = {\url{https://github.com/ramongrobot/mentomy}},
   note         = {Companion dataset to \emph{A Hierarchical Consistency Framework for Auditing Retrieval-Augmented Generation Systems},
